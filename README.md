@@ -19,6 +19,7 @@ Disciplina cursada no período 2019.2, 2° período do curso de Ciência da Comp
 Neste projeto foram usadas as seguintes tecnologias:
 
 > [Java](https://www.java.com/pt-BR/)
+> 
 > [Eclipse IDE](https://www.eclipse.org/downloads/) 
 
 ## :arrow_forward: Como executar
